@@ -1,1 +1,2 @@
-New
+[ ] #0001 : CHAR_BIT defined to 9. (C99 $5.2.4.2.1)
+[ ] #0002 : Flags to test slower memory operations. (e.g. reads or writes)
