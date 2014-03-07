@@ -1,1 +1,0 @@
-[ ] #0001 : CHAR_BIT defined to 9. (C99 $5.2.4.2.1)
