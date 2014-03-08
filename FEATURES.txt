@@ -1,4 +1,4 @@
 [ ] #0001 : CHAR_BIT defined to 9. (C99 $5.2.4.2.1)
 [ ] #0002 : Flags to test slower memory operations. (e.g. reads or writes)
-[ ] #0003 :Undefined operations due to sequence points. (int a = 0; printf("%d %d %d %d", a, a++, a, a++);)
+[ ] #0003 : Undefined operations due to sequence points. (int a = 0; printf("%d %d %d %d", a, a++, a, a++);)
 [ ] #0004 : Uninitialized variables. (int a, b, c; printf("%d %d %d", a, b, c);)
